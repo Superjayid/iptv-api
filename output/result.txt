@@ -1268,4 +1268,4 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 射雕英雄传,http://120.77.28.4:8648/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-04-10 11:16:00,http://58.210.168.86:10800/newlive/live/hls/1/live.m3u8
+2025-04-10 11:30:03,http://58.210.168.86:10800/newlive/live/hls/1/live.m3u8
