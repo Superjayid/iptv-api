@@ -20,4 +20,6 @@ http://ms.fxim.net
 http://kkk.jjjj.jiduo.me
 https://player.cntv.cn
 http://api.mytv666.top
+https://ldcctvwbcdtxy.liveplay.myqcloud.com
+http://player.cntv.cn
 
