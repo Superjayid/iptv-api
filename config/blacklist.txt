@@ -3,9 +3,11 @@
 epg.pw
 skype.serv00.net
 iptv.yjxfz.com
+http://61.133.118.228:5001/yy/1353873252
 live-hls-web-ajb.getaj.net
 live.goodiptv.club
 hc73k3dhwo5gfkt.wcetv.com
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 stream1.freetv.fun
 zw9999.cnstream.top
 zsntlqj.xicp.net
