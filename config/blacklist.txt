@@ -2,6 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 epg.pw
 http://j.x.bkpcp.top
+http://z.b.bkpcp.top
 http://php.jdshipin.com
 http://61.133.118.228:5001/yy/1355067965
 skype.serv00.net
