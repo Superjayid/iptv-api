@@ -1,3 +1,31 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+epg.pw
+http://61.133.118.228:5001/yy/1355067965
+skype.serv00.net
+iptv.yjxfz.com
+http://61.133.118.228:5001/yy/1353873252
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+ku9.3n.cc
+8.138.7.223
 /audio/
+satellitepull.cnr.cn
+tvbox6.icu
+http://itv.iptv1688.top
+https://event.pull.hebtv.com
+http://ms.fxim.net
+http://kkk.jjjj.jiduo.me
+https://player.cntv.cn
+http://api.mytv666.top
+https://ldcctvwbcdtxy.liveplay.myqcloud.com
+http://player.cntv.cn
+https://ldocctvwbcdtxy.liveplaymyqcloud.com
+http://qjrhc.jydjd.top
+https://cdn.iptv8k.top
+
