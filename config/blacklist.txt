@@ -4,6 +4,7 @@ epg.pw
 http://61.133.118.228:5001/yy/1355067965
 skype.serv00.net
 iptv.yjxfz.com
+http://goo.bkpcp.top
 http://61.133.118.228:5001/yy/1353873252
 live-hls-web-ajb.getaj.net
 live.goodiptv.club
