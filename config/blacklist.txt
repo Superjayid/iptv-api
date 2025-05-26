@@ -3,6 +3,7 @@
 epg.pw
 http://61.133.118.228:5001/yy/1355067965
 skype.serv00.net
+https://smart.pendy.dpdns.org
 iptv.yjxfz.com
 http://goo.bkpcp.top
 http://61.133.118.228:5001/yy/1353873252
