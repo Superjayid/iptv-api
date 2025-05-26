@@ -1,6 +1,8 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 epg.pw
+http://j.x.bkpcp.top
+http://php.jdshipin.com
 http://61.133.118.228:5001/yy/1355067965
 skype.serv00.net
 https://smart.pendy.dpdns.org
@@ -31,3 +33,4 @@ https://ldocctvwbcdtxy.liveplaymyqcloud.com
 http://qjrhc.jydjd.top
 https://cdn.iptv8k.top
 https://www.freetv.top
+http://cctvtxyh5c.liveplay.myqcloud.com
